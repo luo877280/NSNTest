@@ -12,7 +12,7 @@ import com.nsn.test.util.FileWriterHelper;
 
 
 public class BrandProductQueueTest  {
-	
+
 	BrandProductQueue<Product> brandProductQueue;
 	@Before
 	public void setUp(){
@@ -46,8 +46,8 @@ public class BrandProductQueueTest  {
 		System.out.println("  ---start OutPut Brands Product---  ");
 		brandProductQueue.outPutBrandsProduct();
 		FileWriterHelper.CloseBrandProductFileWriter();
-		System.out.println("  ---start OutPut Brands Product---  ");
-		
+		System.out.println("  ---start OutPut Brands Product--- 11 ");
+
 	}
 
 }
