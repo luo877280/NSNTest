@@ -14,4 +14,5 @@ open the 'config.properties' at 'src/main/resources' folder,you can see some con
 
 4.For the console,
 
+change on server and submit
 
